@@ -1,0 +1,5 @@
+// 1.0.0 → SEMANTIC VESIONING
+
+// X.Y.Z → X la major y es cuando se rompe la compatibilidad hacia atras
+// X.Y.Z → Y la minor y es cuando se añade nuevas funcionalidades
+// X.Y.Z → Z la PATCH y es cuando se arreglan bugs

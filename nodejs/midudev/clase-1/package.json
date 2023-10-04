@@ -1,0 +1,26 @@
+{
+  "name": "clase-1",
+  "version": "1.0.0",
+  "description": "El mejor curso de node a $0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "ondejs",
+    "midudev"
+  ],
+  "author": "Fabián Ricardo Forero Gutiérrez",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
